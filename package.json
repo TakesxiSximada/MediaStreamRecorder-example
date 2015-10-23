@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TakesxiSximada/MediaStreamRecorder-example/issues"
   },
-  "homepage": "https://github.com/TakesxiSximada/MediaStreamRecorder-example#readme"
+  "homepage": "https://github.com/TakesxiSximada/MediaStreamRecorder-example#readme",
+  "devDependencies": {
+    "msr": "^1.2.9"
+  }
 }
